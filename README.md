@@ -1,1 +1,2 @@
 # Funny-String-algo
+This code addresses the Funny String problem by checking absolute differences between consecutive characters in both forward and reversed directions. It computes ASCII value differences between consecutive characters from both the start and end of the string moving towards the center. The string is only considered "Funny" if all corresponding differences are identical between the original and reversed arrays.
